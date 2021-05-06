@@ -61,6 +61,7 @@ const TimeLine = () => {
   return (
     <div id="projects">
       <br/>
+      <br/>
       <h1 className="heading pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline theme={theme}>
         <Events>

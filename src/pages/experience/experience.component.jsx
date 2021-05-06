@@ -15,6 +15,7 @@ const Experience = () => {
   return (
     <div id="experience">
       <br/>
+      <br/>
       <h1 className="heading pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
       <Jumbotron className="jumbo-style">
         <Container>
@@ -22,7 +23,7 @@ const Experience = () => {
             <CardDeck>
               <Row className="d-flex justify-content-around">
                 {/* Frontend */}
-                <Col md={6}>
+                <Col >
                   <Card>
                     <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
                       <Card.Img variant="top" className="img-resize" src={L_EY} alt="EY logo" />
@@ -51,7 +52,7 @@ const Experience = () => {
                     </Card.Body>
                   </Card>
                 </Col>
-                <Col md={6}>
+                <Col >
                   <Card>
                     <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
                       <Card.Img variant="top" className="img-resize" src={L_THALES} alt="Thales logo" />

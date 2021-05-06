@@ -14,7 +14,7 @@ const Skills = () => {
   return (
     <div className="pt-3 pb-3" id="skills">
       <br/>
-      
+      <br/>
       <h1 className="heading text-center font-details-b pb-4">TECH SKILLS</h1>
       <CardDeck>
         <Row className="d-flex justify-content-around">
