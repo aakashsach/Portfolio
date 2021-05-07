@@ -1,10 +1,16 @@
 .about {
   font-size: 1.1em;
 }
-.container{
-  display:flex;
+.container {
+  display: flex;
   flex-direction: column;
 }
+.container section:first-child {
+  display: flex;
+  align-items: flex-start; /* new */
+  margin-bottom: 25px;
+}
+
 .profile {
   max-width: 70%;
   height: auto;
