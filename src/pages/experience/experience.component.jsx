@@ -5,10 +5,6 @@ import Card from "react-bootstrap/Card";
 import L_THALES from "../../assets/img/experience/Thales_Logo.svg";
 import L_EY from "../../assets/img/experience/EY.svg";
 import Tilt from "react-tilt";
-import CardDeck from "react-bootstrap/CardDeck";
-//import Image from "react-bootstrap/Image";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 import "./experience.styles.css";
 
 const Experience = () => {
