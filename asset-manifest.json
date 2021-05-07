@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.1239d40f.chunk.css",
-    "main.js": "/Portfolio/static/js/main.56de7fde.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.56de7fde.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.51c7bab3.chunk.css",
+    "main.js": "/Portfolio/static/js/main.41d54fdf.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.41d54fdf.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.345da4da.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.345da4da.js.map",
     "static/js/2.8491be54.chunk.js": "/Portfolio/static/js/2.8491be54.chunk.js",
     "static/js/2.8491be54.chunk.js.map": "/Portfolio/static/js/2.8491be54.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.1239d40f.chunk.css.map": "/Portfolio/static/css/main.1239d40f.chunk.css.map",
+    "static/css/main.51c7bab3.chunk.css.map": "/Portfolio/static/css/main.51c7bab3.chunk.css.map",
     "static/js/2.8491be54.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.8491be54.chunk.js.LICENSE.txt",
     "static/media/ADB.ab4db2a6.jpg": "/Portfolio/static/media/ADB.ab4db2a6.jpg",
     "static/media/Asp.net.93315aa3.svg": "/Portfolio/static/media/Asp.net.93315aa3.svg",
@@ -52,7 +52,7 @@
   "entrypoints": [
     "static/js/runtime-main.345da4da.js",
     "static/js/2.8491be54.chunk.js",
-    "static/css/main.1239d40f.chunk.css",
-    "static/js/main.56de7fde.chunk.js"
+    "static/css/main.51c7bab3.chunk.css",
+    "static/js/main.41d54fdf.chunk.js"
   ]
 }
