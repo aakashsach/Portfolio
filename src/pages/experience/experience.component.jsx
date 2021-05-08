@@ -17,7 +17,7 @@ const Experience = () => {
       <br />
       <br />
       <h1 className="heading pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
-      <Jumbotron className="jumbo-style">
+      
         <Container>
           <Tilt options={{ max: 15 }}>
             <CardDeck>
@@ -86,7 +86,6 @@ const Experience = () => {
             </CardDeck>
           </Tilt>
         </Container>
-      </Jumbotron>
     </div>
   );
 };
