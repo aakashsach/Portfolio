@@ -18,7 +18,7 @@ const Experience = () => {
       <br />
       <h1 className="heading pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
       
-        
+        <Jumbotron className="jumbo-style">
             <CardDeck>
               <Row className="d-flex justify-content-around">
                 {/* Frontend */}
@@ -52,6 +52,7 @@ const Experience = () => {
                     </Card.Body>
                   </Card>
                 </Col>
+                <br/>
                 <Col >
                   <Card className="focus mt-2 mb-2">
                     <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
@@ -83,7 +84,7 @@ const Experience = () => {
                 </Col>
               </Row>
             </CardDeck>
-          
+            </Jumbotron>
     </div>
   );
 };
